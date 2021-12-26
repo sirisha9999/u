@@ -1,0 +1,15 @@
+id
+who
+whoami
+pwd
+touch file
+cat > > >  > > >  >>>>>>>>
+vi file 
+mkdir -zdir
+cd..(ll)
+cp(ll)
+mv(ll)
+mkdir dd
+cat /etc/profile
+cat /etc/group
+cat /etc/skell
